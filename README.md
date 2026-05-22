@@ -1,8 +1,8 @@
 # ATS-Sniper
 Claude-powered CV tailoring system. Paste a JD, get a role-calibrated CV variant drawn from a verified master file. Includes ATS mechanics, JD intent classifier, defendability checks, and outcome tracker.
 
-This project was inspired by @saberdevv from a viral Reddit post
-https://www.reddit.com/r/jobhunting/comments/1od54yj/followup_feedback_and_your_answers_14_months/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+**This project was inspired by @saberdevv from a viral Reddit post
+**https://www.reddit.com/r/jobhunting/comments/1od54yj/followup_feedback_and_your_answers_14_months/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 ## what it is
 
