@@ -22,7 +22,7 @@ self-audit: checklist + metric gap flags + defendability check
 ⬇️
 output: tailored CV (markdown) + match brief + suggested filename
 ⬇️
-log outcome in outcome_tracker.md
+log outcome in outcome_tracker.md**
 ---
 
 ## files
