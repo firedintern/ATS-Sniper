@@ -25,11 +25,11 @@ Log every application. After 20-30 entries, patterns become visible — which va
 
 ## Variant naming convention
 
-Format: `df-{lane}-{intent}-{date}.md`
+Format: `jd-{lane}-{intent}-{date}.md`
 
 Examples:
-- `df-bd-gtm-2026-05-21.md` — BD lane, GTM intent, applied 21 May 2026
-- `df-builder-shipping-2026-05-23.md` — Builder-PM lane, shipping-speed intent
+- `jd-bd-gtm-2026-05-21.md` — BD lane, GTM intent, applied 21 May 2026
+- `jd-builder-shipping-2026-05-23.md` — Builder-PM lane, shipping-speed intent
 
 This way each tailored CV is traceable to its outcome.
 
