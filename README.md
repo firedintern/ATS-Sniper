@@ -11,17 +11,17 @@ Built on the principle: **translate real past work into the JD's language. Never
 
 ## how it works
 paste JD
-↓
+⬇️
 parse: title · top 5 responsibilities · top 5 must-haves · intent · disqualifiers
-↓
+⬇️
 match against master_cv.md (ground truth only)
-↓
+⬇️
 draft: Summary → Skills → Experience → Projects → Education
-↓
+⬇️
 self-audit: checklist + metric gap flags + defendability check
-↓
+⬇️
 output: tailored CV (markdown) + match brief + suggested filename
-↓
+⬇️
 log outcome in outcome_tracker.md
 ---
 
