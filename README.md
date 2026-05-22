@@ -34,7 +34,7 @@ graph TD
 
 ---
 
-## setup
+## setup aka how to get started TODAY 🫡
 
 1. Create a new [Claude Project](https://claude.ai) and name it `CV Modifier`
 2. Copy the contents of `project_instructions.md` into the project's **Custom instructions** field
